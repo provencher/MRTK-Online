@@ -58,6 +58,7 @@ namespace prvncher.MixedReality.Toolkit.OculusQuestInput
         private Material leftHandMaterial;
 
         private bool handsInitialized = false;
+        public bool AreHandsInitialized => handsInitialized;
 
         /// <summary>
         /// Constructor.
@@ -230,7 +231,9 @@ namespace prvncher.MixedReality.Toolkit.OculusQuestInput
             var controller = new OculusQuestController(TrackingState.Tracked, handedness, inputSource);
 
             // Code is obsolete later on, but older MRTK versions require it.
+#pragma warning disable 618
             controller.SetupConfiguration(typeof(OculusQuestController));
+#pragma warning restore 618
 
             for (int i = 0; i < controller.InputSource?.Pointers?.Length; i++)
             {
@@ -342,7 +345,9 @@ namespace prvncher.MixedReality.Toolkit.OculusQuestInput
             var controller = new OculusQuestHand(TrackingState.Tracked, handedness, ovrHand, handMaterial, inputSource);
 
             // Code is obsolete later on, but older MRTK versions require it.
+#pragma warning disable 618
             controller.SetupConfiguration(typeof(OculusQuestHand));
+#pragma warning restore 618
 
             for (int i = 0; i < controller.InputSource?.Pointers?.Length; i++)
             {
