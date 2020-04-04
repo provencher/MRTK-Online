@@ -713,6 +713,10 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   luminIcon:
     m_Name: 
@@ -733,9 +737,9 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: bbc5b1ba-ed91-4c8c-84f6-6c6abdc14883
+  cloudProjectId: ebeceaf6-afb9-45d4-83ae-077330c58a48
   framebufferDepthMemorylessMode: 0
-  projectName: MRTK-Quest
+  projectName: MRTK-Online
   organizationId: eric-provencher
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
