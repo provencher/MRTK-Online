@@ -61,16 +61,9 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-# external packages
-/Assets/XR
-/Assets/XR.meta
-/Assets/TextMesh Pro
-/Assets/TextMesh Pro.meta
 
-MSBuildForUnity.Common.props
 
 Assets/IgnoreExtensions/
-
 Assets/IgnoreExtensions.meta
 
 ProjectSettings/UnityConnectSettings.asset
