@@ -1,3 +1,5 @@
+### Unity
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -10,7 +12,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
-# Asset meta data should only be ignored when the corresponding asset is also ignored
+# Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
@@ -54,7 +56,46 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+.out/
 
 # Crashlytics generated file
 crashlytics-build.properties
 
+# external packages
+/Assets/XR
+/Assets/XR.meta
+/Assets/TextMesh Pro
+/Assets/TextMesh Pro.meta
+/Assets/Oculus
+/Assets/Oculus.meta
+/Assets/Plugins
+/Assets/Plugins.meta
+
+# MRTK symbolic link
+/Assets/MixedRealityToolkit
+/Assets/MixedRealityToolkit.meta
+/Assets/MixedRealityToolkit.Examples
+/Assets/MixedRealityToolkit.Examples.meta
+/Assets/MixedRealityToolkit.Extensions
+/Assets/MixedRealityToolkit.Extensions.meta
+/Assets/MixedRealityToolkit.Providers
+/Assets/MixedRealityToolkit.Providers.meta
+/Assets/MixedRealityToolkit.SDK
+/Assets/MixedRealityToolkit.SDK.meta
+/Assets/MixedRealityToolkit.Services
+/Assets/MixedRealityToolkit.Services.meta
+/Assets/MixedRealityToolkit.Tools
+/Assets/MixedRealityToolkit.Tools.meta
+/Assets/MixedRealityToolkit.Generated
+/Assets/MixedRealityToolkit.Generated.meta
+Assets/MRTK
+Assets/MRTK.meta
+
+
+MSBuildForUnity.Common.props
+
+Assets/IgnoreExtensions/
+
+Assets/IgnoreExtensions.meta
+
+ProjectSettings/UnityConnectSettings.asset
