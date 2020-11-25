@@ -6,6 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/MixedRealityToolkit.ThirdParty/MRTK-Online/Examples/MRTK-Quest_Development-Online.unity
-    guid: a5fc002195c1300409af87e506bc5424
-  m_configObjects: {}
+    path: Assets/MRTK-Online-2/Examples/MRTK-Quest_2.5_Examples_Online.unity
+    guid: b8a6eb782dfc42c44a32de8025a5cfd4
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b1a734d715cea0043bf356a4c3fc51f0,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2354e1c4f6340394394720adab854acc,
+      type: 2}

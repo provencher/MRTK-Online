@@ -1,14 +1,38 @@
 {
+  "scopedRegistries": [
+    {
+      "name": "Microsoft Mixed Reality",
+      "url": "https://pkgs.dev.azure.com/aipmr/MixedReality-Unity-Packages/_packaging/Unity-packages/npm/registry/",
+      "scopes": [
+        "com.microsoft.mixedreality",
+        "com.microsoft.spatialaudio"
+      ]
+    },
+    {
+      "name": "Normal",
+      "url": "https://normcore-registry.normcore.io",
+      "scopes": [
+        "com.normalvr",
+        "io.normcore"
+      ]
+    }
+  ],
   "dependencies": {
-    "com.unity.ads": "2.0.8",
-    "com.unity.analytics": "3.2.3",
-    "com.unity.collab-proxy": "1.2.15",
-    "com.unity.package-manager-ui": "2.0.8",
-    "com.unity.purchasing": "2.0.3",
-    "com.unity.textmeshpro": "1.4.1",
-    "com.unity.xr.oculus.android": "1.38.6",
-    "com.unity.xr.oculus.standalone": "1.38.4",
+    "com.microsoft.mixedreality.toolkit.examples": "2.5.1",
+    "com.microsoft.mixedreality.toolkit.foundation": "2.5.1",
+    "com.microsoft.mixedreality.toolkit.tools": "2.5.1",
+    "com.normalvr.normcore": "2.0.3",
+    "com.unity.collab-proxy": "1.2.16",
+    "com.unity.ide.rider": "1.1.4",
+    "com.unity.ide.vscode": "1.2.3",
+    "com.unity.test-framework": "1.1.18",
+    "com.unity.textmeshpro": "2.1.1",
+    "com.unity.timeline": "1.2.17",
+    "com.unity.ugui": "1.0.0",
+    "com.unity.xr.management": "3.2.16",
+    "com.unity.xr.oculus": "1.5.0",
     "com.unity.modules.ai": "1.0.0",
+    "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
     "com.unity.modules.assetbundle": "1.0.0",
     "com.unity.modules.audio": "1.0.0",

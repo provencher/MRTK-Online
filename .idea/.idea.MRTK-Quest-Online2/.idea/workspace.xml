@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b8ad356-dc95-4321-aa2a-949ab401c17e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/Editor/SceneNetworkHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/Editor/SceneNetworkHelper.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/HandSyncModelController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/HandSyncModelController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MRTK-Quest_2.5_Examples.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MRTK-Quest_2.5_Examples.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DBA8CB3-8FB2-4A17-B194-E36B4796A217/7c/a1a017a6/IMixedRealityController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Providers/XRSDK/Controllers/GenericXRSDKController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/SDK/Features/UX/Scripts/Cursors/TeleportCursor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Providers/Oculus/XRSDK/OculusXRSDKDeviceManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00A9F6C9-D42A-445B-9CF4-124485F746FD/0e/155fdc1d/RealtimeTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Core/Providers/BaseController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/HandSyncRealtimeModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Services/InputSystem/NearInteractionGrabbable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/OculusHandTrackingSync.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Providers/XRSDK/XRSDKDeviceManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/SDK/Features/Input/Handlers/ControllerPoseSynchronizer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.normalvr.normcore@2.0.3/Runtime/Normal/Realtime/Avatars/RealtimeAvatar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/9e/40bffb1f/Void.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/TrackingHelpers/OculusControllerMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0DBA8CB3-8FB2-4A17-B194-E36B4796A217/b1/57df0ac5/IMixedRealityInputSystem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.microsoft.mixedreality.toolkit.foundation@2.5.1/Providers/Oculus/XRSDK/MRTK-Quest/Scripts/Input/Controllers/OculusHand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00A9F6C9-D42A-445B-9CF4-124485F746FD/ce/130b9c65/RealtimeComponent`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/00A9F6C9-D42A-445B-9CF4-124485F746FD/8c/4c227103/RealtimeModelAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.normalvr.normcore@2.0.3/Runtime/Normal/Realtime/Avatars/RealtimeAvatarManager.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/NetworkHelpers/NetworkedManipulator.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/Editor/SceneNetworkHelper.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/OculusHandTrackingConfig.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/HandModelSync.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/HandSyncRealtimeModel.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/NetworkHelpers/DisableMeshIfLocallyOwned.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/OculusHandTrackingSync.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/TrackingHelpers/TrackedController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/TrackingHelpers/TrackedControllerMapper.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/HandTracking/HandSyncModelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/MRTK-Online-2/Scripts/TrackingHelpers/OculusControllerMapper.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kkEkGoqvEb6mLU7CEn5xh9gwAC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b8ad356-dc95-4321-aa2a-949ab401c17e" name="Default Changelist" comment="" />
+      <created>1606236331971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606236331971</updated>
+      <workItem from="1606236335707" duration="8260000" />
+      <workItem from="1606322061630" duration="13860000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1514" y="413" key="RiderGenerateDialog" timestamp="1606340724162">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1514" y="413" key="RiderGenerateDialog/0.0.3440.1400/-1440.-775.1440.2520@0.0.3440.1400" timestamp="1606340724162" />
+    <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1606340628861">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1383" y="315" width="672" height="678" key="search.everywhere.popup/0.0.3440.1400/-1440.-775.1440.2520@0.0.3440.1400" timestamp="1606340628861" />
+  </component>
+</project>
