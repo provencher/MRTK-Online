@@ -41,7 +41,6 @@ namespace prvncher.MRTK_Online.TrackingHelpers
             if (!InitializeTrackingReference())
                 return;
 
-            Debug.Log("Updating controller for handedness: " + _handedness);
             transform.position = _controllerAnchor.position;
             transform.rotation = _controllerAnchor.rotation;
         }

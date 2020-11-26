@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: OvrAvatarSettings
   m_EditorClassIdentifier: 
   ovrAppID: 
-  ovrGearAppID: 
+  ovrGearAppID: 12345

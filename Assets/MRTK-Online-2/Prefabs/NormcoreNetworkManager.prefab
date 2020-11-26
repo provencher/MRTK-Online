@@ -40,8 +40,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2923611304101666321}
   - component: {fileID: 3902216300784783675}
-  - component: {fileID: 2923611304101666334}
-  - component: {fileID: 2923611304101666335}
   - component: {fileID: 2923611304101666320}
   m_Layer: 0
   m_Name: NormcoreNetworkManager
@@ -80,33 +78,8 @@ MonoBehaviour:
   _obsoleteAppKey: 
   _normcoreAppSettings: {fileID: 11400000, guid: 98ebb0401d4f217468583a0a057294ad,
     type: 2}
-  _roomToJoinOnStart: Test Room
+  _roomToJoinOnStart: Default
   _joinRoomOnStart: 1
---- !u!114 &2923611304101666334
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2923611304101666332}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7d7f98aebc88c274da19173ffc9bf12e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2923611304101666335
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2923611304101666332}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ccf14d51ee160ad418076f99ee6df319, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  defaultRoomName: MRTK-Online-2
 --- !u!114 &2923611304101666320
 MonoBehaviour:
   m_ObjectHideFlags: 0
