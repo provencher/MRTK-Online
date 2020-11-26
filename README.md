@@ -27,6 +27,8 @@ There are a few ways to set this up.
 
 2 c. Install Oculus Integration V20.1 or newer
 
+2 d. Install the MRTK-Online-2.0.0 Unity package
+
 
 # Note
 If using native Oculus integration as part of MRTK 2.5, run this script below, which will bind the Oculus prefab references to the OculusXRSDKDeviceManagerProfile  
